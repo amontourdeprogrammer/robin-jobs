@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/amontourdeprogrammer/robin-jobs#readme",
   "dependencies": {
+    "got": "^6.7.1",
     "twit": "^2.2.5"
   }
 }
